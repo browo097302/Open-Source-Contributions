@@ -6,7 +6,7 @@ A collection of the merged open source contributions I have made, outlining the 
 ## [Splink - Fast, accurate and scalable probabilistic data linkage](https://github.com/moj-analytical-services/splink)
 
 
-#### - [**Bug fix**] - Predict() Function Math Error: [Issue #2420](https://github.com/moj-analytical-services/splink/pull/2425)
+#### + [**Bug fix**] - Predict() Function Math Error: [Issue #2420](https://github.com/moj-analytical-services/splink/pull/2425)
 
 
 **Issue**: One of the predict functions in splink was returning a math error when a threshold probability of 0 was passed in to a predict() function.
@@ -17,7 +17,7 @@ A collection of the merged open source contributions I have made, outlining the 
 
 <br>
 
-#### - [**Bug fix**] - Subtitle Error in match_weights_interactive_history_chart(): [Issue #1387](https://github.com/moj-analytical-services/splink/pull/2446)
+#### + [**Bug fix**] - Subtitle Error in match_weights_interactive_history_chart(): [Issue #1387](https://github.com/moj-analytical-services/splink/pull/2446)
 
 **Issue**: The em_session.match_weights_interactive_history_chart() was returning an object id in the subtitle instead of an informative and readable string value. This is because the whole blocking rule object was being passed so it was returning an object id. 
 
@@ -29,7 +29,7 @@ A collection of the merged open source contributions I have made, outlining the 
 
 ## [Project OSUS - Open Source URL Shortener](https://github.com/harshithtunuguntla/project-osus)
 
-#### - [User Experience] - Autofocus URL input box: [Issue #26](https://github.com/harshithtunuguntla/project-osus/pull/38)
+#### + [User Experience] - Autofocus URL input box: [Issue #26](https://github.com/harshithtunuguntla/project-osus/pull/38)
 
 **Issue**: The cursor of the URL input field was not automatically in the url box upon the page loading
 
