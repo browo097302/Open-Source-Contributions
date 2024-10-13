@@ -6,7 +6,7 @@ A collection of the merged open source contributions I have made, outlining the 
 ## [Splink - Fast, accurate and scalable probabilistic data linkage](https://github.com/moj-analytical-services/splink)
 
 
-#### - [**Bug fix**] - Predict Function Math Error: [Issue #2420](https://github.com/moj-analytical-services/splink/pull/2425)
+#### - [**Bug fix**] - Predict() Function Math Error: [Issue #2420](https://github.com/moj-analytical-services/splink/pull/2425)
 
 **Issue**: One of the predict functions in splink was returning a math error when a threshold probability of 0 was passed in to a predict() function.
 
