@@ -13,7 +13,7 @@ A collection of the merged open source contributions I have made, outlining the 
 
 **Solution**: Traced back through the functions from where the threshold_probability was being passed in. Refactored the logic of the predict_from_comparison_vectors_sqls_using_settings function to treat threshold_match_probability as None when it is 0.
 
-**Programming language**: Python
+**Language**: Python
 
 <br>
 
@@ -23,7 +23,7 @@ A collection of the merged open source contributions I have made, outlining the 
 
 **Solution**: Added the .blocking_rule_sql property on _blocking_rule_for_training so a readable string is returned instead of an object id code.
 
-**Programming language**: Python
+**Language**: Python
 
 <br><br>
 
@@ -35,6 +35,6 @@ A collection of the merged open source contributions I have made, outlining the 
 
 **Solution**: Added an inline JavaScript snippet at the end of the <body> tag to trigger the focus on the input field with id="longUrl". Enhances user-experience by streamlining URL shortening process.
 
-**Programming language**: JavaScript
+**Language**: JavaScript
 
 
