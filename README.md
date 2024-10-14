@@ -25,6 +25,16 @@ A collection of the merged open source contributions I have made, outlining the 
 
 **Language**: Python
 
+<br>
+
+#### **+** [**Bug fix**] - 'Table Does Not Exist' Catalog Error : [Issue #1823](https://github.com/moj-analytical-services/splink/pull/2447#issuecomment-2411323103)
+
+**Issue**: An enqueued SQL query was generating a conflict by using the same name as an already executed query. This naming collision created ambiguity for the SQL engine, resulting in a Catalog Error: Table with name splink_cluster_count_row_numbered does not exist!
+
+**Solution**:  I resolved the issue by renaming the enqueued query to ensure it was treated as a distinct table. This change eliminated the ambiguity and allowed the query to execute successfully.
+
+**Language**: Python, SQL
+
 <br><br>
 
 ## [Project OSUS - Open Source URL Shortener](https://github.com/harshithtunuguntla/project-osus)
