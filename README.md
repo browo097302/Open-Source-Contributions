@@ -1,5 +1,5 @@
 # Open-Source-Contributions
-A collection of the merged open source contributions I have made, outlining the project, issue and the approach taken in solving the problem. The link to the actually PR request is found by clicking on the Issue #.
+A collection of the merged open source contributions I have made, outlining the project, issue and the approach taken in solving the problem. The link to the actual PR request is found by clicking on the Issue #.
 
 <br>
 
